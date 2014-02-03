@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+jhgjg<?php get_header(); ?>
 <div id="front-page" class="clearfix">
 	<div id="book">
 		<div class="top"></div>
